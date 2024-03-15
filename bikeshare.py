@@ -1,3 +1,10 @@
+'''
+Udacity bikeshare project ... running...
+If data is not found when running this code,
+copy the .csv files to the current working directory.
+'''
+
+
 import time
 import pandas as pd
 
