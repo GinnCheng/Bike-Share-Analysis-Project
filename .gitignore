@@ -1,1 +1,3 @@
 .github/**
+.source_data/*.csv
+.source_data
