@@ -17,6 +17,10 @@ This project is part of the **Udacity Data Analysis Nanodegree** program. It inv
     * *new_york_city.csv*
     * *washington.csv*
 
+### Requirements
+* Python 3.6 or above
+* Pandas 2.2.1 or above
+
 ### Credits
 * **Udacity Data Analysis Nanodegree** program
 * Data provided by **Udacity**
