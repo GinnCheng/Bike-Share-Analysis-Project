@@ -17,9 +17,12 @@ This project is part of the **Udacity Data Analysis Nanodegree** program. It inv
     * *new_york_city.csv*
     * *washington.csv*
 
-### Requirements
+### Requirement
 * Python 3.6 or above
 * Pandas 2.2.1 or above
+
+### Note
+* The source data should be located in the same directory as bikeshare.py
 
 ### Credits
 * **Udacity Data Analysis Nanodegree** program
